@@ -1,0 +1,5 @@
+Items to be picked are:
+1 whole item no.4
+1 whole item no.2
+Fraction of item no.3
+Maximum value of knapsack is 105.000000

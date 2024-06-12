@@ -1,0 +1,2 @@
+Maximum value of knapsack is 90
+Items to be picked are: 4 2 
