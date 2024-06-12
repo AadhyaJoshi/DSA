@@ -1,0 +1,4 @@
+Activities to be selected are:
+Activity 1 (Timings: 1-4)
+Activity 2 (Timings: 5-7)
+Activity 5 (Timings: 8-11)

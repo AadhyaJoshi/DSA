@@ -1,0 +1,2 @@
+Merging k sorted arrays, final array is:
+1 2 2 3 3 7 9 17 21 22 25 31 34 78 89 

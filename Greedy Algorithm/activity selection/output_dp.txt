@@ -1,0 +1,5 @@
+Max number of activities: 3
+Activities to be selected are:
+Activity 1 (Timings: 1-4)
+Activity 2 (Timings: 5-7)
+Activity 10 (Timings: 8-12)

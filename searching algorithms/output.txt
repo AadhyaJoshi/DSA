@@ -1,0 +1,8 @@
+Using linear search,
+Element found at 7th position
+Array is sorted..
+Using binary search,
+Element found at 12th position
+Array is sorted..
+Using ternary search,
+Element found at 12th position
